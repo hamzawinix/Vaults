@@ -287,6 +287,18 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 
 9 problems of power ^29s5meZi
 
+Stuff ^N7LFTyvs
+
+STFFfffffffffffffffffffff
+ffffffffffffffff
+ff
+f
+ffffffff3+234+234-+
++324-+32-4 =
+# ^H8PNfpG5
+
+Remember ^LOCDOPL3
+
 %%
 # Drawing
 ```json
@@ -297,8 +309,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 	"elements": [
 		{
 			"type": "freedraw",
-			"version": 97,
-			"versionNonce": 754695502,
+			"version": 103,
+			"versionNonce": 1157026598,
 			"isDeleted": false,
 			"id": "dUWzfGyVWeOGSz8lhL43r",
 			"fillStyle": "hachure",
@@ -510,8 +522,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 62,
-			"versionNonce": 2141456018,
+			"version": 68,
+			"versionNonce": 1223678522,
 			"isDeleted": false,
 			"id": "vq9IMewqjhWQUhayFhij9",
 			"fillStyle": "hachure",
@@ -583,8 +595,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 62,
-			"versionNonce": 1098048398,
+			"version": 68,
+			"versionNonce": 1648197222,
 			"isDeleted": false,
 			"id": "a0bHU43VU7V5-DAcJmlNx",
 			"fillStyle": "hachure",
@@ -656,8 +668,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 91,
-			"versionNonce": 1850303570,
+			"version": 97,
+			"versionNonce": 153912058,
 			"isDeleted": false,
 			"id": "8mGSn-cL0Lv1fQiYuB-2a",
 			"fillStyle": "hachure",
@@ -849,8 +861,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 61,
-			"versionNonce": 11223502,
+			"version": 67,
+			"versionNonce": 1343013286,
 			"isDeleted": false,
 			"id": "opo4CJC3",
 			"fillStyle": "hachure",
@@ -879,8 +891,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 86,
-			"versionNonce": 603785746,
+			"version": 92,
+			"versionNonce": 357962682,
 			"isDeleted": false,
 			"id": "UCgxVBPC4FYDo2Q112bQe",
 			"fillStyle": "hachure",
@@ -1052,8 +1064,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 60,
-			"versionNonce": 1841158158,
+			"version": 66,
+			"versionNonce": 563191014,
 			"isDeleted": false,
 			"id": "7IDi3_UhyM6uydPUT2FAD",
 			"fillStyle": "hachure",
@@ -1125,8 +1137,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 55,
-			"versionNonce": 934672338,
+			"version": 61,
+			"versionNonce": 797936762,
 			"isDeleted": false,
 			"id": "cbJS_Cg860h5uCuJd49Sj",
 			"fillStyle": "hachure",
@@ -1178,8 +1190,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 58,
-			"versionNonce": 1084466766,
+			"version": 64,
+			"versionNonce": 2086211622,
 			"isDeleted": false,
 			"id": "8rKf4ma_GvMY-tDcj6z0V",
 			"fillStyle": "hachure",
@@ -1243,8 +1255,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 70,
-			"versionNonce": 1233857938,
+			"version": 76,
+			"versionNonce": 1570499898,
 			"isDeleted": false,
 			"id": "wNRqwY78",
 			"fillStyle": "hachure",
@@ -1273,8 +1285,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 52,
-			"versionNonce": 1245031566,
+			"version": 58,
+			"versionNonce": 1280318310,
 			"isDeleted": false,
 			"id": "yrnj8IPl",
 			"fillStyle": "hachure",
@@ -1303,8 +1315,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 53,
-			"versionNonce": 1588833106,
+			"version": 59,
+			"versionNonce": 1960719866,
 			"isDeleted": false,
 			"id": "ynVxCkjfLj89iWifh_Kl4",
 			"fillStyle": "hachure",
@@ -1344,8 +1356,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 75,
-			"versionNonce": 1479338702,
+			"version": 81,
+			"versionNonce": 2009317030,
 			"isDeleted": false,
 			"id": "AbbrrQWcZLWxq4oA1SarL",
 			"fillStyle": "hachure",
@@ -1477,8 +1489,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 53,
-			"versionNonce": 1032220946,
+			"version": 59,
+			"versionNonce": 643393210,
 			"isDeleted": false,
 			"id": "TqIfKWmT",
 			"fillStyle": "hachure",
@@ -1507,8 +1519,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 144,
-			"versionNonce": 421683470,
+			"version": 150,
+			"versionNonce": 325122534,
 			"isDeleted": false,
 			"id": "lKDiWhI8ZyeGCsKl7i0Bj",
 			"fillStyle": "hachure",
@@ -1812,8 +1824,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 105,
-			"versionNonce": 1232764626,
+			"version": 111,
+			"versionNonce": 179339130,
 			"isDeleted": false,
 			"id": "MUiXhtXeMuPz965vUrHjJ",
 			"fillStyle": "hachure",
@@ -2065,8 +2077,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 54,
-			"versionNonce": 9375566,
+			"version": 60,
+			"versionNonce": 372559142,
 			"isDeleted": false,
 			"id": "PAvQRZNB",
 			"fillStyle": "hachure",
@@ -2095,8 +2107,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 58,
-			"versionNonce": 1596380306,
+			"version": 64,
+			"versionNonce": 774275130,
 			"isDeleted": false,
 			"id": "QSOffjLS",
 			"fillStyle": "hachure",
@@ -2125,8 +2137,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 59,
-			"versionNonce": 718009742,
+			"version": 65,
+			"versionNonce": 229390438,
 			"isDeleted": false,
 			"id": "YlaPQukz",
 			"fillStyle": "hachure",
@@ -2155,8 +2167,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 147,
-			"versionNonce": 809661010,
+			"version": 153,
+			"versionNonce": 480143610,
 			"isDeleted": false,
 			"id": "sUz98SYHjcvCHx4UGOBVy",
 			"fillStyle": "hachure",
@@ -2368,8 +2380,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 112,
-			"versionNonce": 1091703758,
+			"version": 118,
+			"versionNonce": 1368669094,
 			"isDeleted": false,
 			"id": "YlCJ-EZ9W0wt3ji6rr2c8",
 			"fillStyle": "hachure",
@@ -2441,8 +2453,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 112,
-			"versionNonce": 530864146,
+			"version": 118,
+			"versionNonce": 1838889402,
 			"isDeleted": false,
 			"id": "RdgdxwiWlOlgkoVlDn0Fy",
 			"fillStyle": "hachure",
@@ -2514,8 +2526,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 141,
-			"versionNonce": 1568303630,
+			"version": 147,
+			"versionNonce": 941217510,
 			"isDeleted": false,
 			"id": "vlWFkinLgO6w_tseSZ75E",
 			"fillStyle": "hachure",
@@ -2707,8 +2719,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 87,
-			"versionNonce": 490964434,
+			"version": 93,
+			"versionNonce": 1346368122,
 			"isDeleted": false,
 			"id": "rGodc1UH",
 			"fillStyle": "hachure",
@@ -2737,8 +2749,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 136,
-			"versionNonce": 1862137934,
+			"version": 142,
+			"versionNonce": 1237977638,
 			"isDeleted": false,
 			"id": "RiRf8RCfCtFyLD60Hm9JY",
 			"fillStyle": "hachure",
@@ -2910,8 +2922,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 133,
-			"versionNonce": 37157778,
+			"version": 139,
+			"versionNonce": 391091002,
 			"isDeleted": false,
 			"id": "uVkduC_oZRYplB6JoLVAV",
 			"fillStyle": "hachure",
@@ -2983,8 +2995,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 128,
-			"versionNonce": 494255758,
+			"version": 134,
+			"versionNonce": 1972491622,
 			"isDeleted": false,
 			"id": "Y9tOal_nsUXBUrgF-4ok8",
 			"fillStyle": "hachure",
@@ -3036,8 +3048,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 131,
-			"versionNonce": 1823848786,
+			"version": 137,
+			"versionNonce": 1160584186,
 			"isDeleted": false,
 			"id": "yK_syoNBnZbWbDlAE89r2",
 			"fillStyle": "hachure",
@@ -3101,8 +3113,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 96,
-			"versionNonce": 765115598,
+			"version": 102,
+			"versionNonce": 1153317030,
 			"isDeleted": false,
 			"id": "kJjYw6Wd",
 			"fillStyle": "hachure",
@@ -3131,8 +3143,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 78,
-			"versionNonce": 471252754,
+			"version": 84,
+			"versionNonce": 400264378,
 			"isDeleted": false,
 			"id": "ewrbGPon",
 			"fillStyle": "hachure",
@@ -3161,8 +3173,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 103,
-			"versionNonce": 1694888718,
+			"version": 109,
+			"versionNonce": 251409382,
 			"isDeleted": false,
 			"id": "rVtLBm6V6tqXgJIDVmexI",
 			"fillStyle": "hachure",
@@ -3202,8 +3214,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 125,
-			"versionNonce": 1288768722,
+			"version": 131,
+			"versionNonce": 352183674,
 			"isDeleted": false,
 			"id": "tVyUWMr9OxrOU8_i7UUZK",
 			"fillStyle": "hachure",
@@ -3335,8 +3347,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 79,
-			"versionNonce": 1848664398,
+			"version": 85,
+			"versionNonce": 777570086,
 			"isDeleted": false,
 			"id": "9GPzBDK0",
 			"fillStyle": "hachure",
@@ -3365,8 +3377,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 194,
-			"versionNonce": 343646866,
+			"version": 200,
+			"versionNonce": 366421562,
 			"isDeleted": false,
 			"id": "z7KTQIE3FNxeoE_M3mRWB",
 			"fillStyle": "hachure",
@@ -3670,8 +3682,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 155,
-			"versionNonce": 1014171534,
+			"version": 161,
+			"versionNonce": 859894374,
 			"isDeleted": false,
 			"id": "gg_4FCSlYQ9RkqJRZXp1t",
 			"fillStyle": "hachure",
@@ -3923,8 +3935,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 80,
-			"versionNonce": 1036877906,
+			"version": 86,
+			"versionNonce": 1397378810,
 			"isDeleted": false,
 			"id": "pwlE3rzo",
 			"fillStyle": "hachure",
@@ -3953,8 +3965,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 84,
-			"versionNonce": 1879500238,
+			"version": 90,
+			"versionNonce": 411153830,
 			"isDeleted": false,
 			"id": "1U8D4xdd",
 			"fillStyle": "hachure",
@@ -3983,8 +3995,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 69,
-			"versionNonce": 614311442,
+			"version": 75,
+			"versionNonce": 1910136762,
 			"isDeleted": false,
 			"id": "3R_cWkRsctT108ejoJpZE",
 			"fillStyle": "hachure",
@@ -4096,8 +4108,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 66,
-			"versionNonce": 973405198,
+			"version": 72,
+			"versionNonce": 2001211622,
 			"isDeleted": false,
 			"id": "rcJiDhE6",
 			"fillStyle": "hachure",
@@ -4126,8 +4138,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 69,
-			"versionNonce": 300094418,
+			"version": 75,
+			"versionNonce": 229267578,
 			"isDeleted": false,
 			"id": "JZgujHM2",
 			"fillStyle": "hachure",
@@ -4156,8 +4168,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 118,
-			"versionNonce": 1080445518,
+			"version": 124,
+			"versionNonce": 992019494,
 			"isDeleted": false,
 			"id": "31bxBjTW",
 			"fillStyle": "hachure",
@@ -4186,8 +4198,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "arrow",
-			"version": 126,
-			"versionNonce": 397724050,
+			"version": 132,
+			"versionNonce": 1182611770,
 			"isDeleted": false,
 			"id": "Y4vPfWCrxHUDC3tes4aPK",
 			"fillStyle": "hachure",
@@ -4224,8 +4236,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "arrow",
-			"version": 154,
-			"versionNonce": 33804430,
+			"version": 160,
+			"versionNonce": 1442418534,
 			"isDeleted": false,
 			"id": "_7SWUTriow_YYVxjnCQTh",
 			"fillStyle": "hachure",
@@ -4262,8 +4274,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 119,
-			"versionNonce": 1833551698,
+			"version": 125,
+			"versionNonce": 1270219258,
 			"isDeleted": false,
 			"id": "OekD2LvlCflxBb2hVDoqX",
 			"fillStyle": "hachure",
@@ -4475,8 +4487,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 84,
-			"versionNonce": 982945486,
+			"version": 90,
+			"versionNonce": 1948168870,
 			"isDeleted": false,
 			"id": "A0_XoL2q8njx4OMcjoTR3",
 			"fillStyle": "hachure",
@@ -4548,8 +4560,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 84,
-			"versionNonce": 1257835794,
+			"version": 90,
+			"versionNonce": 1750577850,
 			"isDeleted": false,
 			"id": "Ku5Edl0KIsBB6sSVzx_L0",
 			"fillStyle": "hachure",
@@ -4621,8 +4633,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 113,
-			"versionNonce": 1186432270,
+			"version": 119,
+			"versionNonce": 809332198,
 			"isDeleted": false,
 			"id": "jcziAApYeMJovwfU_PI-Z",
 			"fillStyle": "hachure",
@@ -4814,8 +4826,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 83,
-			"versionNonce": 1178180306,
+			"version": 89,
+			"versionNonce": 252005242,
 			"isDeleted": false,
 			"id": "LvLMdIWi",
 			"fillStyle": "hachure",
@@ -4844,8 +4856,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 108,
-			"versionNonce": 132100942,
+			"version": 114,
+			"versionNonce": 1197654310,
 			"isDeleted": false,
 			"id": "iaOLGR7w3DOzf3nP7o4R8",
 			"fillStyle": "hachure",
@@ -5017,8 +5029,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 82,
-			"versionNonce": 765620370,
+			"version": 88,
+			"versionNonce": 1711393850,
 			"isDeleted": false,
 			"id": "ONRuaW1Nabk3gqQdKzmz_",
 			"fillStyle": "hachure",
@@ -5090,8 +5102,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 77,
-			"versionNonce": 1214781838,
+			"version": 83,
+			"versionNonce": 1291562086,
 			"isDeleted": false,
 			"id": "JM9EZbSYQxtAbExecAWOu",
 			"fillStyle": "hachure",
@@ -5143,8 +5155,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 80,
-			"versionNonce": 1693093458,
+			"version": 86,
+			"versionNonce": 1395668218,
 			"isDeleted": false,
 			"id": "ZC5qzOBn6mgJISziIVadE",
 			"fillStyle": "hachure",
@@ -5208,8 +5220,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 92,
-			"versionNonce": 529119182,
+			"version": 98,
+			"versionNonce": 1591029670,
 			"isDeleted": false,
 			"id": "3SDoOBRk",
 			"fillStyle": "hachure",
@@ -5238,8 +5250,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 74,
-			"versionNonce": 1089008658,
+			"version": 80,
+			"versionNonce": 135497146,
 			"isDeleted": false,
 			"id": "iDrGjIxX",
 			"fillStyle": "hachure",
@@ -5268,8 +5280,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 75,
-			"versionNonce": 1432194574,
+			"version": 81,
+			"versionNonce": 1495026406,
 			"isDeleted": false,
 			"id": "GdqGQLUiM5F09Og5b3J60",
 			"fillStyle": "hachure",
@@ -5309,8 +5321,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 97,
-			"versionNonce": 1670685138,
+			"version": 103,
+			"versionNonce": 231652986,
 			"isDeleted": false,
 			"id": "ubSAAAUj9G4qI8gKcUT1b",
 			"fillStyle": "hachure",
@@ -5442,8 +5454,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 75,
-			"versionNonce": 1188863054,
+			"version": 81,
+			"versionNonce": 173932070,
 			"isDeleted": false,
 			"id": "nZfqGJ9G",
 			"fillStyle": "hachure",
@@ -5472,8 +5484,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 108,
-			"versionNonce": 402954130,
+			"version": 114,
+			"versionNonce": 1361370938,
 			"isDeleted": false,
 			"id": "C1ncgitJ",
 			"fillStyle": "hachure",
@@ -5502,8 +5514,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 80,
-			"versionNonce": 1239409294,
+			"version": 86,
+			"versionNonce": 1736919398,
 			"isDeleted": false,
 			"id": "ZbIutL0J",
 			"fillStyle": "hachure",
@@ -5532,8 +5544,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 169,
-			"versionNonce": 779081042,
+			"version": 175,
+			"versionNonce": 779675642,
 			"isDeleted": false,
 			"id": "PBvYVJ5l",
 			"fillStyle": "hachure",
@@ -5562,8 +5574,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "line",
-			"version": 162,
-			"versionNonce": 287334606,
+			"version": 168,
+			"versionNonce": 1071983782,
 			"isDeleted": false,
 			"id": "QNwE6lz6JR0H6EEXBxibx",
 			"fillStyle": "hachure",
@@ -5604,8 +5616,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 171,
-			"versionNonce": 1479367442,
+			"version": 177,
+			"versionNonce": 2110642362,
 			"isDeleted": false,
 			"id": "HQlszNOUs7GLgKVISFkh6",
 			"fillStyle": "hachure",
@@ -6141,8 +6153,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 55,
-			"versionNonce": 272045838,
+			"version": 61,
+			"versionNonce": 1898227686,
 			"isDeleted": false,
 			"id": "iYBIvKVJrgvtKsLFXlQ1N",
 			"fillStyle": "hachure",
@@ -6214,8 +6226,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 48,
-			"versionNonce": 62138578,
+			"version": 54,
+			"versionNonce": 516338042,
 			"isDeleted": false,
 			"id": "aqSqoX9ii4LHQb2G7et6C",
 			"fillStyle": "hachure",
@@ -6255,8 +6267,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 177,
-			"versionNonce": 1604126030,
+			"version": 183,
+			"versionNonce": 458406694,
 			"isDeleted": false,
 			"id": "mwrbSca00EQ2svtKv-fWu",
 			"fillStyle": "hachure",
@@ -6816,8 +6828,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "rectangle",
-			"version": 131,
-			"versionNonce": 949698194,
+			"version": 137,
+			"versionNonce": 78017082,
 			"isDeleted": false,
 			"id": "0d73qcpW-qhERdibuNGPA",
 			"fillStyle": "hachure",
@@ -6839,8 +6851,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 48,
-			"versionNonce": 548088718,
+			"version": 54,
+			"versionNonce": 1423730278,
 			"isDeleted": false,
 			"id": "KLEyVtb8",
 			"fillStyle": "hachure",
@@ -6869,8 +6881,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 48,
-			"versionNonce": 1939446866,
+			"version": 54,
+			"versionNonce": 1112546042,
 			"isDeleted": false,
 			"id": "oW18y4mO",
 			"fillStyle": "hachure",
@@ -6899,8 +6911,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 56,
-			"versionNonce": 1637517774,
+			"version": 62,
+			"versionNonce": 1586407846,
 			"isDeleted": false,
 			"id": "HccO0hNv",
 			"fillStyle": "hachure",
@@ -6929,8 +6941,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 78,
-			"versionNonce": 42353170,
+			"version": 84,
+			"versionNonce": 373730234,
 			"isDeleted": false,
 			"id": "ex9XOJ3P",
 			"fillStyle": "hachure",
@@ -6959,8 +6971,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 56,
-			"versionNonce": 25436174,
+			"version": 62,
+			"versionNonce": 1469482214,
 			"isDeleted": false,
 			"id": "bCSSnE45",
 			"fillStyle": "hachure",
@@ -6989,8 +7001,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 113,
-			"versionNonce": 1616392146,
+			"version": 119,
+			"versionNonce": 1991058554,
 			"isDeleted": false,
 			"id": "AeWSCc4o",
 			"fillStyle": "hachure",
@@ -7019,8 +7031,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 110,
-			"versionNonce": 341896782,
+			"version": 116,
+			"versionNonce": 1904277542,
 			"isDeleted": false,
 			"id": "pcaN4g72",
 			"fillStyle": "hachure",
@@ -7049,8 +7061,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 73,
-			"versionNonce": 287729042,
+			"version": 79,
+			"versionNonce": 491160890,
 			"isDeleted": false,
 			"id": "WSQy1EyL",
 			"fillStyle": "hachure",
@@ -7079,8 +7091,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 127,
-			"versionNonce": 1191834766,
+			"version": 133,
+			"versionNonce": 607847270,
 			"isDeleted": false,
 			"id": "F9A8jTcy",
 			"fillStyle": "hachure",
@@ -7109,8 +7121,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 169,
-			"versionNonce": 2116543314,
+			"version": 175,
+			"versionNonce": 326487546,
 			"isDeleted": false,
 			"id": "uD9OuxSN",
 			"fillStyle": "hachure",
@@ -7141,8 +7153,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 54,
-			"versionNonce": 1127756494,
+			"version": 60,
+			"versionNonce": 1645323942,
 			"isDeleted": false,
 			"id": "DPtYsHmw",
 			"fillStyle": "hachure",
@@ -7173,8 +7185,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "arrow",
-			"version": 94,
-			"versionNonce": 1370728722,
+			"version": 100,
+			"versionNonce": 1044250298,
 			"isDeleted": false,
 			"id": "P8jvvNMHgrC5lvRRCfJGD",
 			"fillStyle": "hachure",
@@ -7223,8 +7235,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 105,
-			"versionNonce": 327461134,
+			"version": 111,
+			"versionNonce": 1269948902,
 			"isDeleted": false,
 			"id": "ffitzty7",
 			"fillStyle": "hachure",
@@ -7253,8 +7265,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "rectangle",
-			"version": 84,
-			"versionNonce": 1396750034,
+			"version": 90,
+			"versionNonce": 1782716282,
 			"isDeleted": false,
 			"id": "URZpbEahh_GELX1wKrtG9",
 			"fillStyle": "hachure",
@@ -7276,8 +7288,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 95,
-			"versionNonce": 124278606,
+			"version": 101,
+			"versionNonce": 1680389414,
 			"isDeleted": false,
 			"id": "INJEa0MaLGG7-N1UvINTb",
 			"fillStyle": "hachure",
@@ -7405,8 +7417,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 81,
-			"versionNonce": 1130761362,
+			"version": 87,
+			"versionNonce": 1472534586,
 			"isDeleted": false,
 			"id": "vRyaVVkm2BiBDDSPtr2GJ",
 			"fillStyle": "hachure",
@@ -7478,8 +7490,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 80,
-			"versionNonce": 389823886,
+			"version": 86,
+			"versionNonce": 1155735654,
 			"isDeleted": false,
 			"id": "lMfdve9tyjvLR8aNYijX9",
 			"fillStyle": "hachure",
@@ -7547,8 +7559,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 109,
-			"versionNonce": 937077330,
+			"version": 115,
+			"versionNonce": 1185546490,
 			"isDeleted": false,
 			"id": "GilzWIh37I2vMnujLRsFa",
 			"fillStyle": "hachure",
@@ -7724,8 +7736,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "ellipse",
-			"version": 94,
-			"versionNonce": 1211718606,
+			"version": 100,
+			"versionNonce": 1370366886,
 			"isDeleted": false,
 			"id": "_t2WA1feIcN2Ym5lJNBIB",
 			"fillStyle": "hachure",
@@ -7747,8 +7759,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 95,
-			"versionNonce": 2004193298,
+			"version": 101,
+			"versionNonce": 41144762,
 			"isDeleted": false,
 			"id": "J4o1ByA1yV5d6FdqR9nsF",
 			"fillStyle": "hachure",
@@ -7876,8 +7888,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 145,
-			"versionNonce": 276345358,
+			"version": 151,
+			"versionNonce": 1823915750,
 			"isDeleted": false,
 			"id": "Il_AgkCrt6uwRVN9lt3Rb",
 			"fillStyle": "hachure",
@@ -8205,8 +8217,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 94,
-			"versionNonce": 1445838290,
+			"version": 100,
+			"versionNonce": 1850051194,
 			"isDeleted": false,
 			"id": "1QbDMXhN",
 			"fillStyle": "hachure",
@@ -8235,8 +8247,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 102,
-			"versionNonce": 989020238,
+			"version": 108,
+			"versionNonce": 713683494,
 			"isDeleted": false,
 			"id": "zIXOnvlr",
 			"fillStyle": "hachure",
@@ -8265,8 +8277,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 62,
-			"versionNonce": 286929810,
+			"version": 68,
+			"versionNonce": 283257658,
 			"isDeleted": false,
 			"id": "_JlNf313wFNkOyCilhYVW",
 			"fillStyle": "hachure",
@@ -8334,8 +8346,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 72,
-			"versionNonce": 1266812558,
+			"version": 78,
+			"versionNonce": 102022502,
 			"isDeleted": false,
 			"id": "oEsTvrNFJoTTiinHX8oSS",
 			"fillStyle": "hachure",
@@ -8443,8 +8455,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 59,
-			"versionNonce": 712110418,
+			"version": 65,
+			"versionNonce": 548189178,
 			"isDeleted": false,
 			"id": "9SEb_3Wb1h1fJW_7Mca0d",
 			"fillStyle": "hachure",
@@ -8500,8 +8512,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 71,
-			"versionNonce": 1658717390,
+			"version": 77,
+			"versionNonce": 346300582,
 			"isDeleted": false,
 			"id": "POZ2aCjexWkTiBgNKEHVb",
 			"fillStyle": "hachure",
@@ -8605,8 +8617,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "ellipse",
-			"version": 79,
-			"versionNonce": 1166800658,
+			"version": 85,
+			"versionNonce": 262677690,
 			"isDeleted": false,
 			"id": "m39rEdIJq8ytgmKcGSbZ3",
 			"fillStyle": "hachure",
@@ -8628,8 +8640,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 86,
-			"versionNonce": 580926222,
+			"version": 92,
+			"versionNonce": 971316198,
 			"isDeleted": false,
 			"id": "wvoF2RlVZtEiluoN-FuQZ",
 			"fillStyle": "hachure",
@@ -8761,8 +8773,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 81,
-			"versionNonce": 48186578,
+			"version": 87,
+			"versionNonce": 393706874,
 			"isDeleted": false,
 			"id": "F0n4H5ydWFJn-Vr-_8RVD",
 			"fillStyle": "hachure",
@@ -8862,8 +8874,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 159,
-			"versionNonce": 289515854,
+			"version": 165,
+			"versionNonce": 1541713702,
 			"isDeleted": false,
 			"id": "rm8lJM6e0X_Lz2-bHnnz2",
 			"fillStyle": "hachure",
@@ -9315,8 +9327,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 56,
-			"versionNonce": 1543690898,
+			"version": 62,
+			"versionNonce": 1163771450,
 			"isDeleted": false,
 			"id": "pzHwW8zy",
 			"fillStyle": "hachure",
@@ -9345,8 +9357,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 56,
-			"versionNonce": 2115719054,
+			"version": 62,
+			"versionNonce": 386914918,
 			"isDeleted": false,
 			"id": "Oq_kUm0QJOPh0cAXOmHtl",
 			"fillStyle": "hachure",
@@ -9386,8 +9398,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 57,
-			"versionNonce": 2142091346,
+			"version": 63,
+			"versionNonce": 104720122,
 			"isDeleted": false,
 			"id": "jZMnN6PUjFREIto5JnnqG",
 			"fillStyle": "hachure",
@@ -9435,8 +9447,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 73,
-			"versionNonce": 1701195214,
+			"version": 79,
+			"versionNonce": 1915985318,
 			"isDeleted": false,
 			"id": "3poKM0PiUc8bywAcSKKaS",
 			"fillStyle": "hachure",
@@ -9556,8 +9568,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 74,
-			"versionNonce": 766959122,
+			"version": 80,
+			"versionNonce": 849016762,
 			"isDeleted": false,
 			"id": "l9_Xh7E5Y_BMVMZTnz5hS",
 			"fillStyle": "hachure",
@@ -9681,8 +9693,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 94,
-			"versionNonce": 1413170190,
+			"version": 100,
+			"versionNonce": 310180070,
 			"isDeleted": false,
 			"id": "thKgraCI",
 			"fillStyle": "hachure",
@@ -9711,8 +9723,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 113,
-			"versionNonce": 320162770,
+			"version": 119,
+			"versionNonce": 446165114,
 			"isDeleted": false,
 			"id": "N12vEAX3kiB7zieQAVmbr",
 			"fillStyle": "hachure",
@@ -9936,8 +9948,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "rectangle",
-			"version": 84,
-			"versionNonce": 1284739662,
+			"version": 90,
+			"versionNonce": 1870195750,
 			"isDeleted": false,
 			"id": "Zn4h32Hd-Eanfmrnh1020",
 			"fillStyle": "hachure",
@@ -9959,8 +9971,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 143,
-			"versionNonce": 635437458,
+			"version": 149,
+			"versionNonce": 301453626,
 			"isDeleted": false,
 			"id": "L3Li0O0y",
 			"fillStyle": "hachure",
@@ -9989,8 +10001,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 68,
-			"versionNonce": 692590734,
+			"version": 74,
+			"versionNonce": 118781798,
 			"isDeleted": false,
 			"id": "0y5pnXdI",
 			"fillStyle": "hachure",
@@ -10019,8 +10031,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 56,
-			"versionNonce": 21888850,
+			"version": 62,
+			"versionNonce": 2082314746,
 			"isDeleted": false,
 			"id": "JC9mH6Oe",
 			"fillStyle": "hachure",
@@ -10049,8 +10061,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 73,
-			"versionNonce": 34723534,
+			"version": 79,
+			"versionNonce": 295475878,
 			"isDeleted": false,
 			"id": "2BzZBiu7",
 			"fillStyle": "hachure",
@@ -10079,8 +10091,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 75,
-			"versionNonce": 1102464274,
+			"version": 81,
+			"versionNonce": 1477200570,
 			"isDeleted": false,
 			"id": "DrxRqYDX",
 			"fillStyle": "hachure",
@@ -10109,8 +10121,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 86,
-			"versionNonce": 260689166,
+			"version": 92,
+			"versionNonce": 901666278,
 			"isDeleted": false,
 			"id": "ITCwj8st",
 			"fillStyle": "hachure",
@@ -10139,8 +10151,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 144,
-			"versionNonce": 93951698,
+			"version": 150,
+			"versionNonce": 1281811322,
 			"isDeleted": false,
 			"id": "9Xh0TTmN",
 			"fillStyle": "hachure",
@@ -10169,8 +10181,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 62,
-			"versionNonce": 254344014,
+			"version": 68,
+			"versionNonce": 1015458086,
 			"isDeleted": false,
 			"id": "Rdc2MqXm6tJw48M1kK-gL",
 			"fillStyle": "hachure",
@@ -10238,8 +10250,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 72,
-			"versionNonce": 275884178,
+			"version": 78,
+			"versionNonce": 863003706,
 			"isDeleted": false,
 			"id": "JNb853-0GECCZ2_0wnmdc",
 			"fillStyle": "hachure",
@@ -10347,8 +10359,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 59,
-			"versionNonce": 659054990,
+			"version": 65,
+			"versionNonce": 1164088422,
 			"isDeleted": false,
 			"id": "awAg599RcYKN6KIZw8wIo",
 			"fillStyle": "hachure",
@@ -10404,8 +10416,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 71,
-			"versionNonce": 420660818,
+			"version": 77,
+			"versionNonce": 655084794,
 			"isDeleted": false,
 			"id": "U-qn3q8jZSW0nGaf2grUD",
 			"fillStyle": "hachure",
@@ -10509,8 +10521,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "ellipse",
-			"version": 79,
-			"versionNonce": 1260453838,
+			"version": 85,
+			"versionNonce": 2048858022,
 			"isDeleted": false,
 			"id": "_0yQxZEuLVcOUVpI68XfG",
 			"fillStyle": "hachure",
@@ -10532,8 +10544,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 86,
-			"versionNonce": 860498962,
+			"version": 92,
+			"versionNonce": 213654970,
 			"isDeleted": false,
 			"id": "CH2fjjlG4vdcOiilTUf6h",
 			"fillStyle": "hachure",
@@ -10665,8 +10677,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 81,
-			"versionNonce": 516675086,
+			"version": 87,
+			"versionNonce": 1122579174,
 			"isDeleted": false,
 			"id": "2zv_dQx8Cte4AAJxvLAd_",
 			"fillStyle": "hachure",
@@ -10766,8 +10778,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 159,
-			"versionNonce": 1695472082,
+			"version": 165,
+			"versionNonce": 564418170,
 			"isDeleted": false,
 			"id": "mZ7ME3JU22gq_QAvJqn1P",
 			"fillStyle": "hachure",
@@ -11219,8 +11231,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 56,
-			"versionNonce": 1531044942,
+			"version": 62,
+			"versionNonce": 2051925542,
 			"isDeleted": false,
 			"id": "OICKIKZc",
 			"fillStyle": "hachure",
@@ -11249,8 +11261,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 56,
-			"versionNonce": 1568133010,
+			"version": 62,
+			"versionNonce": 109541178,
 			"isDeleted": false,
 			"id": "X1EQmHTH1mk3TE09c2y9b",
 			"fillStyle": "hachure",
@@ -11290,8 +11302,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 57,
-			"versionNonce": 844901006,
+			"version": 63,
+			"versionNonce": 557461862,
 			"isDeleted": false,
 			"id": "tpkuhxPCdLVq6T4n3_2C7",
 			"fillStyle": "hachure",
@@ -11339,8 +11351,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 73,
-			"versionNonce": 1354501458,
+			"version": 79,
+			"versionNonce": 1271431162,
 			"isDeleted": false,
 			"id": "EtxTxP4dRQhsWjlvhpxj4",
 			"fillStyle": "hachure",
@@ -11460,8 +11472,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 74,
-			"versionNonce": 852732110,
+			"version": 80,
+			"versionNonce": 318444710,
 			"isDeleted": false,
 			"id": "BuHXxvWhgltpgzSZjf0pl",
 			"fillStyle": "hachure",
@@ -11585,8 +11597,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 94,
-			"versionNonce": 1412600594,
+			"version": 100,
+			"versionNonce": 2104127674,
 			"isDeleted": false,
 			"id": "CpQxvoKv",
 			"fillStyle": "hachure",
@@ -11615,8 +11627,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 144,
-			"versionNonce": 742481678,
+			"version": 150,
+			"versionNonce": 960335846,
 			"isDeleted": false,
 			"id": "y4ncEAlw-UT03HimJyvHy",
 			"fillStyle": "hachure",
@@ -11828,8 +11840,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 109,
-			"versionNonce": 978477266,
+			"version": 115,
+			"versionNonce": 789596538,
 			"isDeleted": false,
 			"id": "0o51tiOauWhILxbdezcE6",
 			"fillStyle": "hachure",
@@ -11901,8 +11913,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 109,
-			"versionNonce": 320752974,
+			"version": 115,
+			"versionNonce": 1074701094,
 			"isDeleted": false,
 			"id": "9vWKRB-tYpI4DpRU_PmYz",
 			"fillStyle": "hachure",
@@ -11974,8 +11986,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 138,
-			"versionNonce": 1857189522,
+			"version": 144,
+			"versionNonce": 134023738,
 			"isDeleted": false,
 			"id": "n2dRaWEIWq_7PxNDYTUja",
 			"fillStyle": "hachure",
@@ -12167,8 +12179,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 102,
-			"versionNonce": 1690530702,
+			"version": 108,
+			"versionNonce": 1239109222,
 			"isDeleted": false,
 			"id": "y5XdnODg",
 			"fillStyle": "hachure",
@@ -12197,8 +12209,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 133,
-			"versionNonce": 1376375890,
+			"version": 139,
+			"versionNonce": 1326691066,
 			"isDeleted": false,
 			"id": "kEfGIlMv9RIpIyoRktSv4",
 			"fillStyle": "hachure",
@@ -12370,8 +12382,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 107,
-			"versionNonce": 191484366,
+			"version": 113,
+			"versionNonce": 594579878,
 			"isDeleted": false,
 			"id": "luEfwk_KFUXzTL624-5M1",
 			"fillStyle": "hachure",
@@ -12443,8 +12455,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 102,
-			"versionNonce": 372210194,
+			"version": 108,
+			"versionNonce": 1993819066,
 			"isDeleted": false,
 			"id": "1mhQIk2q9Ocnx2WRBkvNK",
 			"fillStyle": "hachure",
@@ -12496,8 +12508,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 105,
-			"versionNonce": 1110075406,
+			"version": 111,
+			"versionNonce": 2012966118,
 			"isDeleted": false,
 			"id": "PKFogtHYT86DoThYCwKmc",
 			"fillStyle": "hachure",
@@ -12561,8 +12573,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 111,
-			"versionNonce": 437938130,
+			"version": 117,
+			"versionNonce": 694860922,
 			"isDeleted": false,
 			"id": "wkNNWeKf",
 			"fillStyle": "hachure",
@@ -12591,8 +12603,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 93,
-			"versionNonce": 2029925966,
+			"version": 99,
+			"versionNonce": 84467750,
 			"isDeleted": false,
 			"id": "X0LeGjCS",
 			"fillStyle": "hachure",
@@ -12621,8 +12633,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 100,
-			"versionNonce": 1172413842,
+			"version": 106,
+			"versionNonce": 1418796346,
 			"isDeleted": false,
 			"id": "OqXA2a0XOzsDXgWQL5PsU",
 			"fillStyle": "hachure",
@@ -12662,8 +12674,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 122,
-			"versionNonce": 951991438,
+			"version": 128,
+			"versionNonce": 1317399398,
 			"isDeleted": false,
 			"id": "fuP64NKcaC2Huq0nlx9rP",
 			"fillStyle": "hachure",
@@ -12795,8 +12807,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 94,
-			"versionNonce": 1723603794,
+			"version": 100,
+			"versionNonce": 900556282,
 			"isDeleted": false,
 			"id": "VKzPczQP",
 			"fillStyle": "hachure",
@@ -12825,8 +12837,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 99,
-			"versionNonce": 119765710,
+			"version": 105,
+			"versionNonce": 1388285606,
 			"isDeleted": false,
 			"id": "FrCFzTEX",
 			"fillStyle": "hachure",
@@ -12855,8 +12867,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "line",
-			"version": 187,
-			"versionNonce": 184606994,
+			"version": 193,
+			"versionNonce": 1707251386,
 			"isDeleted": false,
 			"id": "SVLsKKoIdMj7e-fZXtHDG",
 			"fillStyle": "hachure",
@@ -12897,8 +12909,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 185,
-			"versionNonce": 1254551822,
+			"version": 191,
+			"versionNonce": 1046661606,
 			"isDeleted": false,
 			"id": "B4b0jEHIb8gm6UVswyHVf",
 			"fillStyle": "hachure",
@@ -13434,8 +13446,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 80,
-			"versionNonce": 1579609810,
+			"version": 86,
+			"versionNonce": 1702080378,
 			"isDeleted": false,
 			"id": "pks5KkvnKKqdGiR1V7a5w",
 			"fillStyle": "hachure",
@@ -13507,8 +13519,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 73,
-			"versionNonce": 790732622,
+			"version": 79,
+			"versionNonce": 545037606,
 			"isDeleted": false,
 			"id": "T9jMdaItlXboFphwHVjoy",
 			"fillStyle": "hachure",
@@ -13548,8 +13560,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 191,
-			"versionNonce": 80037010,
+			"version": 197,
+			"versionNonce": 688107578,
 			"isDeleted": false,
 			"id": "E51-0C_PK-kdaDEbMCO5u",
 			"fillStyle": "hachure",
@@ -14109,8 +14121,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 67,
-			"versionNonce": 143426958,
+			"version": 73,
+			"versionNonce": 511314022,
 			"isDeleted": false,
 			"id": "dwCZ367Q",
 			"fillStyle": "hachure",
@@ -14139,8 +14151,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 75,
-			"versionNonce": 2022892114,
+			"version": 81,
+			"versionNonce": 609589498,
 			"isDeleted": false,
 			"id": "RB0BfGuM",
 			"fillStyle": "hachure",
@@ -14169,8 +14181,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 97,
-			"versionNonce": 943760334,
+			"version": 103,
+			"versionNonce": 673713062,
 			"isDeleted": false,
 			"id": "NPdLrelz",
 			"fillStyle": "hachure",
@@ -14199,8 +14211,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 75,
-			"versionNonce": 1684457490,
+			"version": 81,
+			"versionNonce": 1458334138,
 			"isDeleted": false,
 			"id": "StITv9h2",
 			"fillStyle": "hachure",
@@ -14229,8 +14241,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 40,
-			"versionNonce": 274135566,
+			"version": 46,
+			"versionNonce": 733193958,
 			"isDeleted": false,
 			"id": "AvKvReQVtEMBOwF5oz-4r",
 			"fillStyle": "hachure",
@@ -14310,8 +14322,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 41,
-			"versionNonce": 3667410,
+			"version": 47,
+			"versionNonce": 1475027578,
 			"isDeleted": false,
 			"id": "R6QFS8xCgBK6LkYK5BifM",
 			"fillStyle": "hachure",
@@ -14395,8 +14407,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 182,
-			"versionNonce": 935888974,
+			"version": 188,
+			"versionNonce": 1235868198,
 			"isDeleted": false,
 			"id": "vog1dLmOPxFb9OV55cViJ",
 			"fillStyle": "hachure",
@@ -14608,8 +14620,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 147,
-			"versionNonce": 1830644626,
+			"version": 153,
+			"versionNonce": 1645527866,
 			"isDeleted": false,
 			"id": "wBqIYkXKt7BKB4udjJDiO",
 			"fillStyle": "hachure",
@@ -14681,8 +14693,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 171,
-			"versionNonce": 242110094,
+			"version": 177,
+			"versionNonce": 150447462,
 			"isDeleted": false,
 			"id": "k1w7yvflY4e8iZe3DcHM4",
 			"fillStyle": "hachure",
@@ -14854,8 +14866,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 145,
-			"versionNonce": 290335058,
+			"version": 151,
+			"versionNonce": 1607224314,
 			"isDeleted": false,
 			"id": "hm_PsM0p9FCIylIQ2zBjn",
 			"fillStyle": "hachure",
@@ -14927,8 +14939,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 140,
-			"versionNonce": 285297870,
+			"version": 146,
+			"versionNonce": 183109798,
 			"isDeleted": false,
 			"id": "_h0utdyah2B7WV8xLeblO",
 			"fillStyle": "hachure",
@@ -14980,8 +14992,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 143,
-			"versionNonce": 1948331794,
+			"version": 149,
+			"versionNonce": 1997847738,
 			"isDeleted": false,
 			"id": "_53rWmlSqCuCxVu1JlMjN",
 			"fillStyle": "hachure",
@@ -15045,8 +15057,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 125,
-			"versionNonce": 1025147662,
+			"version": 131,
+			"versionNonce": 1059980262,
 			"isDeleted": false,
 			"id": "Na7t5ieL",
 			"fillStyle": "hachure",
@@ -15075,8 +15087,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 107,
-			"versionNonce": 437091538,
+			"version": 113,
+			"versionNonce": 361829754,
 			"isDeleted": false,
 			"id": "NCqUJGAH",
 			"fillStyle": "hachure",
@@ -15105,8 +15117,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 138,
-			"versionNonce": 1966272846,
+			"version": 144,
+			"versionNonce": 399546150,
 			"isDeleted": false,
 			"id": "sHUe6PyopSJ_wIn73BqP6",
 			"fillStyle": "hachure",
@@ -15146,8 +15158,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 160,
-			"versionNonce": 1621758610,
+			"version": 166,
+			"versionNonce": 2089047610,
 			"isDeleted": false,
 			"id": "M5xxRtRCF3OUYj1SasCho",
 			"fillStyle": "hachure",
@@ -15279,8 +15291,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 108,
-			"versionNonce": 1688442766,
+			"version": 114,
+			"versionNonce": 1027523174,
 			"isDeleted": false,
 			"id": "TkTEChHt",
 			"fillStyle": "hachure",
@@ -15309,8 +15321,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "line",
-			"version": 225,
-			"versionNonce": 1521348690,
+			"version": 231,
+			"versionNonce": 1288797946,
 			"isDeleted": false,
 			"id": "ZM8Z7bDU1H7W0NXlG4Hz2",
 			"fillStyle": "hachure",
@@ -15351,8 +15363,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 223,
-			"versionNonce": 1671787982,
+			"version": 229,
+			"versionNonce": 1111852454,
 			"isDeleted": false,
 			"id": "6lV67w3H2YlGLEoLwQFy9",
 			"fillStyle": "hachure",
@@ -15888,8 +15900,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 118,
-			"versionNonce": 737154578,
+			"version": 124,
+			"versionNonce": 318476218,
 			"isDeleted": false,
 			"id": "XaSYg5aTWxr7hCz8ZbLks",
 			"fillStyle": "hachure",
@@ -15961,8 +15973,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 111,
-			"versionNonce": 1532070926,
+			"version": 117,
+			"versionNonce": 1477566694,
 			"isDeleted": false,
 			"id": "LAl1-n9T8baW7ERLCO8Er",
 			"fillStyle": "hachure",
@@ -16002,8 +16014,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 229,
-			"versionNonce": 1701282770,
+			"version": 235,
+			"versionNonce": 1394968698,
 			"isDeleted": false,
 			"id": "ANLfU26Ltn6qmgcshoUnV",
 			"fillStyle": "hachure",
@@ -16563,8 +16575,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 81,
-			"versionNonce": 698407502,
+			"version": 87,
+			"versionNonce": 36754470,
 			"isDeleted": false,
 			"id": "0ofMQC33",
 			"fillStyle": "hachure",
@@ -16593,8 +16605,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 111,
-			"versionNonce": 1630222738,
+			"version": 117,
+			"versionNonce": 353528122,
 			"isDeleted": false,
 			"id": "6cFbl7P2",
 			"fillStyle": "hachure",
@@ -16623,8 +16635,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 69,
-			"versionNonce": 90988686,
+			"version": 75,
+			"versionNonce": 1250910054,
 			"isDeleted": false,
 			"id": "Tf9rfx6v",
 			"fillStyle": "hachure",
@@ -16653,8 +16665,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 62,
-			"versionNonce": 510801746,
+			"version": 68,
+			"versionNonce": 1881485818,
 			"isDeleted": false,
 			"id": "QEVLoGjoM_qQ_aO9M6K6p",
 			"fillStyle": "hachure",
@@ -16826,8 +16838,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "ellipse",
-			"version": 105,
-			"versionNonce": 1651318478,
+			"version": 111,
+			"versionNonce": 1970963110,
 			"isDeleted": false,
 			"id": "2OdQ6HOWghLpy1bXHDDDR",
 			"fillStyle": "hachure",
@@ -16849,8 +16861,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 48,
-			"versionNonce": 496205074,
+			"version": 54,
+			"versionNonce": 392225466,
 			"isDeleted": false,
 			"id": "_46eunJD7Y2lSOesMn7jN",
 			"fillStyle": "hachure",
@@ -16974,8 +16986,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 34,
-			"versionNonce": 1430000910,
+			"version": 40,
+			"versionNonce": 899628518,
 			"isDeleted": false,
 			"id": "FtpXuwf_qI4CY2UIQWYBd",
 			"fillStyle": "hachure",
@@ -17043,8 +17055,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 31,
-			"versionNonce": 1007028946,
+			"version": 37,
+			"versionNonce": 1701346170,
 			"isDeleted": false,
 			"id": "PAJFmK5o2W2ByItFwqAgW",
 			"fillStyle": "hachure",
@@ -17100,8 +17112,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 30,
-			"versionNonce": 2001879886,
+			"version": 36,
+			"versionNonce": 1611305254,
 			"isDeleted": false,
 			"id": "-q7izzF6JbDb5U402RJuE",
 			"fillStyle": "hachure",
@@ -17149,8 +17161,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 112,
-			"versionNonce": 274784402,
+			"version": 118,
+			"versionNonce": 1753152570,
 			"isDeleted": false,
 			"id": "7gBuMiM4",
 			"fillStyle": "hachure",
@@ -17179,8 +17191,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 48,
-			"versionNonce": 1258858894,
+			"version": 54,
+			"versionNonce": 539589734,
 			"isDeleted": false,
 			"id": "sPBpD4G2",
 			"fillStyle": "hachure",
@@ -17209,8 +17221,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 28,
-			"versionNonce": 1180368466,
+			"version": 34,
+			"versionNonce": 1854366970,
 			"isDeleted": false,
 			"id": "XYuFKL85",
 			"fillStyle": "hachure",
@@ -17239,8 +17251,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 42,
-			"versionNonce": 530073550,
+			"version": 48,
+			"versionNonce": 734592934,
 			"isDeleted": false,
 			"id": "oDhQf5A6",
 			"fillStyle": "hachure",
@@ -17271,8 +17283,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 28,
-			"versionNonce": 2060149778,
+			"version": 34,
+			"versionNonce": 285521338,
 			"isDeleted": false,
 			"id": "h8m97BRR",
 			"fillStyle": "hachure",
@@ -17301,8 +17313,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "arrow",
-			"version": 73,
-			"versionNonce": 1964645902,
+			"version": 79,
+			"versionNonce": 1997937382,
 			"isDeleted": false,
 			"id": "Qat5WGlpjQnR8Zh9LCgE-",
 			"fillStyle": "hachure",
@@ -17339,8 +17351,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "arrow",
-			"version": 63,
-			"versionNonce": 396956114,
+			"version": 69,
+			"versionNonce": 1092218490,
 			"isDeleted": false,
 			"id": "1V-guEwD6EmveqILgd8Fc",
 			"fillStyle": "hachure",
@@ -17377,8 +17389,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "arrow",
-			"version": 73,
-			"versionNonce": 1619471438,
+			"version": 79,
+			"versionNonce": 1755172390,
 			"isDeleted": false,
 			"id": "4j1r09u1qb0SgaFGAW8ei",
 			"fillStyle": "hachure",
@@ -17419,8 +17431,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 26,
-			"versionNonce": 806029202,
+			"version": 32,
+			"versionNonce": 1401556794,
 			"isDeleted": false,
 			"id": "ENCbwCQi",
 			"fillStyle": "hachure",
@@ -17449,8 +17461,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "arrow",
-			"version": 66,
-			"versionNonce": 1874358926,
+			"version": 72,
+			"versionNonce": 223156582,
 			"isDeleted": false,
 			"id": "JJudsC7jK76sx9G1Ccfxg",
 			"fillStyle": "hachure",
@@ -17487,8 +17499,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 69,
-			"versionNonce": 1546143058,
+			"version": 75,
+			"versionNonce": 213391354,
 			"isDeleted": false,
 			"id": "pSAFUA6q",
 			"fillStyle": "hachure",
@@ -17517,8 +17529,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 84,
-			"versionNonce": 224850126,
+			"version": 90,
+			"versionNonce": 1282473126,
 			"isDeleted": false,
 			"id": "FCrx52qD",
 			"fillStyle": "hachure",
@@ -17547,8 +17559,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 61,
-			"versionNonce": 358075154,
+			"version": 67,
+			"versionNonce": 749144250,
 			"isDeleted": false,
 			"id": "wfPgmAsc",
 			"fillStyle": "hachure",
@@ -17577,8 +17589,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "rectangle",
-			"version": 83,
-			"versionNonce": 1697359630,
+			"version": 89,
+			"versionNonce": 464943078,
 			"isDeleted": false,
 			"id": "HxhZuVp1CMiGguum599Kg",
 			"fillStyle": "hachure",
@@ -17600,8 +17612,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 26,
-			"versionNonce": 303077586,
+			"version": 32,
+			"versionNonce": 2063196538,
 			"isDeleted": false,
 			"id": "0e-3fzo_94uqgu5rkvk-U",
 			"fillStyle": "hachure",
@@ -17641,8 +17653,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 89,
-			"versionNonce": 1199543630,
+			"version": 95,
+			"versionNonce": 858426150,
 			"isDeleted": false,
 			"id": "FOi9uu4M",
 			"fillStyle": "hachure",
@@ -17671,8 +17683,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 52,
-			"versionNonce": 568962706,
+			"version": 58,
+			"versionNonce": 1391698490,
 			"isDeleted": false,
 			"id": "UuUiWQr4",
 			"fillStyle": "hachure",
@@ -17701,8 +17713,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 138,
-			"versionNonce": 230407054,
+			"version": 144,
+			"versionNonce": 1094334054,
 			"isDeleted": false,
 			"id": "E4QyXKnnmbZFl9HXdVABr",
 			"fillStyle": "hachure",
@@ -18078,8 +18090,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 73,
-			"versionNonce": 161090642,
+			"version": 79,
+			"versionNonce": 796347130,
 			"isDeleted": false,
 			"id": "8ksHxR1GWKAvfhE7uCdFs",
 			"fillStyle": "hachure",
@@ -18195,8 +18207,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 67,
-			"versionNonce": 2115574222,
+			"version": 73,
+			"versionNonce": 515013030,
 			"isDeleted": false,
 			"id": "CIe9BQzpuMfffyqqZxJoD",
 			"fillStyle": "hachure",
@@ -18288,8 +18300,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 90,
-			"versionNonce": 1593356818,
+			"version": 96,
+			"versionNonce": 923261882,
 			"isDeleted": false,
 			"id": "coh9jH5OxRvQE27d0vMX3",
 			"fillStyle": "hachure",
@@ -18473,8 +18485,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 94,
-			"versionNonce": 800108558,
+			"version": 100,
+			"versionNonce": 46159078,
 			"isDeleted": false,
 			"id": "JKEZ1unUhx3-q5Ocz2YGy",
 			"fillStyle": "hachure",
@@ -18674,8 +18686,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 59,
-			"versionNonce": 1694277586,
+			"version": 65,
+			"versionNonce": 1204311162,
 			"isDeleted": false,
 			"id": "ZPVJpGSaR9zYOAX6zD_mp",
 			"fillStyle": "hachure",
@@ -18735,8 +18747,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 67,
-			"versionNonce": 1853587022,
+			"version": 73,
+			"versionNonce": 921749542,
 			"isDeleted": false,
 			"id": "hoWnsTUPKDox1xrLD4IPw",
 			"fillStyle": "hachure",
@@ -18824,8 +18836,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 57,
-			"versionNonce": 1740428690,
+			"version": 63,
+			"versionNonce": 58438970,
 			"isDeleted": false,
 			"id": "8IOS2On8",
 			"fillStyle": "hachure",
@@ -18854,8 +18866,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 60,
-			"versionNonce": 525501582,
+			"version": 66,
+			"versionNonce": 1261491046,
 			"isDeleted": false,
 			"id": "RKqFi0oHh1NGdS4H6E0Y2",
 			"fillStyle": "hachure",
@@ -18939,8 +18951,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 57,
-			"versionNonce": 410014546,
+			"version": 63,
+			"versionNonce": 1535442426,
 			"isDeleted": false,
 			"id": "np0OE_nlwMBHTsZvLoYY-",
 			"fillStyle": "hachure",
@@ -19012,8 +19024,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 54,
-			"versionNonce": 602849998,
+			"version": 60,
+			"versionNonce": 1238202022,
 			"isDeleted": false,
 			"id": "2pvxm5VXFggkem7ebgmT7",
 			"fillStyle": "hachure",
@@ -19073,8 +19085,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 55,
-			"versionNonce": 1768823058,
+			"version": 61,
+			"versionNonce": 484912826,
 			"isDeleted": false,
 			"id": "uiDIReHR_dAf8hTWj-0EC",
 			"fillStyle": "hachure",
@@ -19134,8 +19146,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 112,
-			"versionNonce": 1055471886,
+			"version": 118,
+			"versionNonce": 1802744294,
 			"isDeleted": false,
 			"id": "EkFiKTvtBLQ3SZFaDbrnp",
 			"fillStyle": "hachure",
@@ -19427,8 +19439,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 61,
-			"versionNonce": 1781343954,
+			"version": 67,
+			"versionNonce": 2084915066,
 			"isDeleted": false,
 			"id": "E4otmJwCSXwyHGJxx-WYM",
 			"fillStyle": "hachure",
@@ -19516,8 +19528,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 70,
-			"versionNonce": 2008737614,
+			"version": 76,
+			"versionNonce": 1261471014,
 			"isDeleted": false,
 			"id": "eJIIKoJ0IcZcH2aOWLs4l",
 			"fillStyle": "hachure",
@@ -19641,8 +19653,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 91,
-			"versionNonce": 591690898,
+			"version": 97,
+			"versionNonce": 568477754,
 			"isDeleted": false,
 			"id": "HqcxNbS0op_dqaEHUeN6o",
 			"fillStyle": "hachure",
@@ -19850,8 +19862,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 116,
-			"versionNonce": 2126302606,
+			"version": 122,
+			"versionNonce": 443609190,
 			"isDeleted": false,
 			"id": "KrUy7zLz3yL8IJyKlpcrZ",
 			"fillStyle": "hachure",
@@ -20059,8 +20071,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 121,
-			"versionNonce": 1919621714,
+			"version": 127,
+			"versionNonce": 899756282,
 			"isDeleted": false,
 			"id": "aa59BOdJW_mYfAcO2D6Xb",
 			"fillStyle": "hachure",
@@ -20268,8 +20280,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 55,
-			"versionNonce": 287828942,
+			"version": 61,
+			"versionNonce": 1426191270,
 			"isDeleted": false,
 			"id": "qNzDysNS",
 			"fillStyle": "hachure",
@@ -20298,8 +20310,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 83,
-			"versionNonce": 1719140370,
+			"version": 89,
+			"versionNonce": 1795490234,
 			"isDeleted": false,
 			"id": "TRKma8lS",
 			"fillStyle": "hachure",
@@ -20328,8 +20340,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 89,
-			"versionNonce": 1561674254,
+			"version": 95,
+			"versionNonce": 1964019430,
 			"isDeleted": false,
 			"id": "8ejA2OK2",
 			"fillStyle": "hachure",
@@ -20358,8 +20370,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 40,
-			"versionNonce": 459419090,
+			"version": 46,
+			"versionNonce": 221297274,
 			"isDeleted": false,
 			"id": "P4gHyMQZ",
 			"fillStyle": "hachure",
@@ -20388,8 +20400,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 40,
-			"versionNonce": 1702744142,
+			"version": 46,
+			"versionNonce": 657048102,
 			"isDeleted": false,
 			"id": "T7XoRjJl",
 			"fillStyle": "hachure",
@@ -20418,8 +20430,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 40,
-			"versionNonce": 373334930,
+			"version": 46,
+			"versionNonce": 182934330,
 			"isDeleted": false,
 			"id": "TBEaKdaD",
 			"fillStyle": "hachure",
@@ -20448,8 +20460,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 42,
-			"versionNonce": 1715115662,
+			"version": 48,
+			"versionNonce": 2117766502,
 			"isDeleted": false,
 			"id": "yrkc3NT8",
 			"fillStyle": "hachure",
@@ -20478,8 +20490,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 46,
-			"versionNonce": 558522706,
+			"version": 52,
+			"versionNonce": 42722298,
 			"isDeleted": false,
 			"id": "ArqbpmHe",
 			"fillStyle": "hachure",
@@ -20508,8 +20520,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 43,
-			"versionNonce": 939824334,
+			"version": 49,
+			"versionNonce": 663744678,
 			"isDeleted": false,
 			"id": "qmlq7Syb",
 			"fillStyle": "hachure",
@@ -20538,8 +20550,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 51,
-			"versionNonce": 668362514,
+			"version": 57,
+			"versionNonce": 1310807226,
 			"isDeleted": false,
 			"id": "ZHwigR2g",
 			"fillStyle": "hachure",
@@ -20568,8 +20580,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 56,
-			"versionNonce": 880069390,
+			"version": 62,
+			"versionNonce": 517401574,
 			"isDeleted": false,
 			"id": "QKIxJgqF7wHUUtmb4V0LU",
 			"fillStyle": "hachure",
@@ -20637,8 +20649,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 94,
-			"versionNonce": 307999954,
+			"version": 100,
+			"versionNonce": 256552314,
 			"isDeleted": false,
 			"id": "JvVEDQRVdKE00MAYlzgyo",
 			"fillStyle": "hachure",
@@ -20858,8 +20870,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 119,
-			"versionNonce": 436484430,
+			"version": 125,
+			"versionNonce": 1646034726,
 			"isDeleted": false,
 			"id": "hN0GAOpS",
 			"fillStyle": "hachure",
@@ -20888,8 +20900,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 99,
-			"versionNonce": 577850002,
+			"version": 105,
+			"versionNonce": 994766394,
 			"isDeleted": false,
 			"id": "SmtfGDmQ",
 			"fillStyle": "hachure",
@@ -20918,8 +20930,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 105,
-			"versionNonce": 1879826318,
+			"version": 111,
+			"versionNonce": 634235494,
 			"isDeleted": false,
 			"id": "93JvMQL4",
 			"fillStyle": "hachure",
@@ -20948,8 +20960,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 93,
-			"versionNonce": 1322133586,
+			"version": 99,
+			"versionNonce": 654644986,
 			"isDeleted": false,
 			"id": "24qZRyeZ",
 			"fillStyle": "hachure",
@@ -20978,8 +20990,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 89,
-			"versionNonce": 1791278542,
+			"version": 95,
+			"versionNonce": 146238886,
 			"isDeleted": false,
 			"id": "A8J1Sx8H",
 			"fillStyle": "hachure",
@@ -21008,8 +21020,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 120,
-			"versionNonce": 524897810,
+			"version": 126,
+			"versionNonce": 318515130,
 			"isDeleted": false,
 			"id": "rxTBzSbZ",
 			"fillStyle": "hachure",
@@ -21038,8 +21050,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "rectangle",
-			"version": 60,
-			"versionNonce": 1330107406,
+			"version": 66,
+			"versionNonce": 1208404198,
 			"isDeleted": false,
 			"id": "djYItA1iEfmAbL6DsPQTS",
 			"fillStyle": "hachure",
@@ -21061,8 +21073,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 16,
-			"versionNonce": 148487122,
+			"version": 22,
+			"versionNonce": 928194682,
 			"isDeleted": false,
 			"id": "SnL9kYJFqYER1L1iFqMfa",
 			"fillStyle": "hachure",
@@ -21102,8 +21114,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 148,
-			"versionNonce": 1468932686,
+			"version": 154,
+			"versionNonce": 1934146598,
 			"isDeleted": false,
 			"id": "RHuj33pg",
 			"fillStyle": "hachure",
@@ -21132,8 +21144,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 42,
-			"versionNonce": 1234596242,
+			"version": 48,
+			"versionNonce": 1338835258,
 			"isDeleted": false,
 			"id": "Wo1auutn",
 			"fillStyle": "hachure",
@@ -21162,8 +21174,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 128,
-			"versionNonce": 376481934,
+			"version": 134,
+			"versionNonce": 543836006,
 			"isDeleted": false,
 			"id": "c8RDGOMXLqS8DWkmRoSmm",
 			"fillStyle": "hachure",
@@ -21539,8 +21551,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 63,
-			"versionNonce": 1152806738,
+			"version": 69,
+			"versionNonce": 667732474,
 			"isDeleted": false,
 			"id": "CoPzzRzEFElqOIQhw5Rox",
 			"fillStyle": "hachure",
@@ -21656,8 +21668,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 57,
-			"versionNonce": 1537763022,
+			"version": 63,
+			"versionNonce": 532179622,
 			"isDeleted": false,
 			"id": "l9OlV4NR4eQiEc6KWSQwI",
 			"fillStyle": "hachure",
@@ -21749,8 +21761,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 80,
-			"versionNonce": 1586541842,
+			"version": 86,
+			"versionNonce": 643136186,
 			"isDeleted": false,
 			"id": "i7wEyqKS0Z0XrqozYSG-Z",
 			"fillStyle": "hachure",
@@ -21934,8 +21946,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 84,
-			"versionNonce": 399400206,
+			"version": 90,
+			"versionNonce": 803218918,
 			"isDeleted": false,
 			"id": "cVn1hfFfmdJfEl0XfIc6w",
 			"fillStyle": "hachure",
@@ -22135,8 +22147,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 49,
-			"versionNonce": 1486635730,
+			"version": 55,
+			"versionNonce": 1510609786,
 			"isDeleted": false,
 			"id": "qFeMA8MWOXgxHCqGsU4OH",
 			"fillStyle": "hachure",
@@ -22196,8 +22208,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 57,
-			"versionNonce": 1079741262,
+			"version": 63,
+			"versionNonce": 837712166,
 			"isDeleted": false,
 			"id": "jXdYOPbOtoyFPw3YHkLg-",
 			"fillStyle": "hachure",
@@ -22285,8 +22297,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 47,
-			"versionNonce": 762321042,
+			"version": 53,
+			"versionNonce": 86873146,
 			"isDeleted": false,
 			"id": "vijj6Jr5",
 			"fillStyle": "hachure",
@@ -22315,8 +22327,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 130,
-			"versionNonce": 1824732754,
+			"version": 136,
+			"versionNonce": 1565549670,
 			"isDeleted": false,
 			"id": "DkyoraaCHplfbS2PmRoul",
 			"fillStyle": "hachure",
@@ -22388,8 +22400,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 127,
-			"versionNonce": 485461966,
+			"version": 133,
+			"versionNonce": 698547450,
 			"isDeleted": false,
 			"id": "0fWi4hHIambm7S_zpwHqb",
 			"fillStyle": "hachure",
@@ -22449,8 +22461,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 128,
-			"versionNonce": 392993810,
+			"version": 134,
+			"versionNonce": 1943201702,
 			"isDeleted": false,
 			"id": "7UdkjP-GeGj2R1ikE4SWy",
 			"fillStyle": "hachure",
@@ -22510,8 +22522,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 162,
-			"versionNonce": 1481139726,
+			"version": 168,
+			"versionNonce": 351096250,
 			"isDeleted": false,
 			"id": "CRFtWaNanCNqbJ2QV8_9u",
 			"fillStyle": "hachure",
@@ -22803,8 +22815,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 100,
-			"versionNonce": 2070104530,
+			"version": 106,
+			"versionNonce": 1973617382,
 			"isDeleted": false,
 			"id": "FboSoFWvKmT-joAUJqWHw",
 			"fillStyle": "hachure",
@@ -22892,8 +22904,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 109,
-			"versionNonce": 1454142542,
+			"version": 115,
+			"versionNonce": 1815053946,
 			"isDeleted": false,
 			"id": "DsBgxzXKprDSKTre_1QJH",
 			"fillStyle": "hachure",
@@ -23017,8 +23029,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 130,
-			"versionNonce": 264126354,
+			"version": 136,
+			"versionNonce": 1431156262,
 			"isDeleted": false,
 			"id": "HzQMVWw4e0IvJpx0d7LYn",
 			"fillStyle": "hachure",
@@ -23226,8 +23238,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 155,
-			"versionNonce": 32815758,
+			"version": 161,
+			"versionNonce": 942450490,
 			"isDeleted": false,
 			"id": "t_njStzT6kurgxJ78q50C",
 			"fillStyle": "hachure",
@@ -23435,8 +23447,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 160,
-			"versionNonce": 1354005842,
+			"version": 166,
+			"versionNonce": 734003558,
 			"isDeleted": false,
 			"id": "TyMeBWV7k2fm05JemHtQf",
 			"fillStyle": "hachure",
@@ -23644,8 +23656,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 94,
-			"versionNonce": 551172302,
+			"version": 100,
+			"versionNonce": 1900523514,
 			"isDeleted": false,
 			"id": "EMEIy39O",
 			"fillStyle": "hachure",
@@ -23674,8 +23686,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 122,
-			"versionNonce": 463274770,
+			"version": 128,
+			"versionNonce": 1816585382,
 			"isDeleted": false,
 			"id": "8ImNs7s3",
 			"fillStyle": "hachure",
@@ -23704,8 +23716,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 128,
-			"versionNonce": 989196046,
+			"version": 134,
+			"versionNonce": 193175738,
 			"isDeleted": false,
 			"id": "QOjv5tJs",
 			"fillStyle": "hachure",
@@ -23734,8 +23746,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 89,
-			"versionNonce": 183423186,
+			"version": 95,
+			"versionNonce": 412049382,
 			"isDeleted": false,
 			"id": "MYAtsSLh",
 			"fillStyle": "hachure",
@@ -23764,8 +23776,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 89,
-			"versionNonce": 2093014350,
+			"version": 95,
+			"versionNonce": 42170746,
 			"isDeleted": false,
 			"id": "LP3TLGME",
 			"fillStyle": "hachure",
@@ -23794,8 +23806,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 89,
-			"versionNonce": 1379985042,
+			"version": 95,
+			"versionNonce": 1957065510,
 			"isDeleted": false,
 			"id": "4LSo8Gpj",
 			"fillStyle": "hachure",
@@ -23824,8 +23836,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 42,
-			"versionNonce": 462685070,
+			"version": 48,
+			"versionNonce": 1703557690,
 			"isDeleted": false,
 			"id": "pg2KHxE8",
 			"fillStyle": "hachure",
@@ -23854,8 +23866,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 46,
-			"versionNonce": 441074770,
+			"version": 52,
+			"versionNonce": 989404774,
 			"isDeleted": false,
 			"id": "S8JSbz8o",
 			"fillStyle": "hachure",
@@ -23884,8 +23896,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 43,
-			"versionNonce": 967336398,
+			"version": 49,
+			"versionNonce": 1668997882,
 			"isDeleted": false,
 			"id": "Mxi9IVXL",
 			"fillStyle": "hachure",
@@ -23914,8 +23926,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 51,
-			"versionNonce": 1558309394,
+			"version": 57,
+			"versionNonce": 1347707302,
 			"isDeleted": false,
 			"id": "A0IMgOfE",
 			"fillStyle": "hachure",
@@ -23944,8 +23956,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 46,
-			"versionNonce": 1243019278,
+			"version": 52,
+			"versionNonce": 1457025978,
 			"isDeleted": false,
 			"id": "8uVvI7rvGyEe1xUeNZ0I1",
 			"fillStyle": "hachure",
@@ -24013,8 +24025,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 84,
-			"versionNonce": 1090443218,
+			"version": 90,
+			"versionNonce": 2011512038,
 			"isDeleted": false,
 			"id": "TG6brOJQAqbozRhdbfRJ-",
 			"fillStyle": "hachure",
@@ -24234,8 +24246,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "rectangle",
-			"version": 50,
-			"versionNonce": 1877704974,
+			"version": 56,
+			"versionNonce": 1371925626,
 			"isDeleted": false,
 			"id": "mEp9cacMzqkdVzBAOluwr",
 			"fillStyle": "hachure",
@@ -24257,8 +24269,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 52,
-			"versionNonce": 2001952466,
+			"version": 58,
+			"versionNonce": 121155622,
 			"isDeleted": false,
 			"id": "9anwPFN_Z8Dr35IKc_J4d",
 			"fillStyle": "hachure",
@@ -24474,8 +24486,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 4,
-			"versionNonce": 1404728206,
+			"version": 10,
+			"versionNonce": 705056058,
 			"isDeleted": false,
 			"id": "lnVEVndF",
 			"fillStyle": "hachure",
@@ -24504,8 +24516,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 107,
-			"versionNonce": 559448722,
+			"version": 113,
+			"versionNonce": 440122214,
 			"isDeleted": false,
 			"id": "XeOZbnjHIkd2vH6otgNjC",
 			"fillStyle": "hachure",
@@ -24949,8 +24961,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 17,
-			"versionNonce": 542386062,
+			"version": 23,
+			"versionNonce": 83662330,
 			"isDeleted": false,
 			"id": "MwJX3-09eiWfcdCVNC7AN",
 			"fillStyle": "hachure",
@@ -25034,8 +25046,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 11,
-			"versionNonce": 1544446034,
+			"version": 17,
+			"versionNonce": 1195073190,
 			"isDeleted": false,
 			"id": "c3l7uU0QYR1VvdVDVECCC",
 			"fillStyle": "hachure",
@@ -25095,8 +25107,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "freedraw",
-			"version": 11,
-			"versionNonce": 2059666894,
+			"version": 17,
+			"versionNonce": 1672201914,
 			"isDeleted": false,
 			"id": "UG6shCXzVDKHauE6NCLAh",
 			"fillStyle": "hachure",
@@ -25156,8 +25168,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 4,
-			"versionNonce": 2005408846,
+			"version": 10,
+			"versionNonce": 1390713318,
 			"isDeleted": false,
 			"id": "2CY1i2XD",
 			"fillStyle": "hachure",
@@ -25186,8 +25198,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 196,
-			"versionNonce": 994603986,
+			"version": 202,
+			"versionNonce": 783736698,
 			"isDeleted": false,
 			"id": "sK1LWuRl",
 			"fillStyle": "hachure",
@@ -25216,8 +25228,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 90,
-			"versionNonce": 2107014094,
+			"version": 96,
+			"versionNonce": 1682205990,
 			"isDeleted": false,
 			"id": "cpJcRV82",
 			"fillStyle": "hachure",
@@ -25246,8 +25258,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 13,
-			"versionNonce": 27870158,
+			"version": 19,
+			"versionNonce": 1113645114,
 			"isDeleted": false,
 			"id": "0pwz28yw",
 			"fillStyle": "hachure",
@@ -25276,8 +25288,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 16,
-			"versionNonce": 2111071246,
+			"version": 22,
+			"versionNonce": 952621158,
 			"isDeleted": false,
 			"id": "uImnxNKg",
 			"fillStyle": "hachure",
@@ -25306,8 +25318,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 131,
-			"versionNonce": 2123212174,
+			"version": 137,
+			"versionNonce": 2056046842,
 			"isDeleted": false,
 			"id": "6sVPlwEG",
 			"fillStyle": "hachure",
@@ -25336,8 +25348,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 24,
-			"versionNonce": 918281810,
+			"version": 30,
+			"versionNonce": 1480317862,
 			"isDeleted": false,
 			"id": "Aa4Cro9W",
 			"fillStyle": "hachure",
@@ -25366,8 +25378,8 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 		},
 		{
 			"type": "text",
-			"version": 41,
-			"versionNonce": 1105370066,
+			"version": 47,
+			"versionNonce": 1052613050,
 			"isDeleted": false,
 			"id": "29s5meZi",
 			"fillStyle": "hachure",
@@ -25393,10 +25405,1234 @@ V(1/R1 + 1/R2 + 1/R3) = V1/R1 + V2/R2 + V3/R3 ^6sVPlwEG
 			"baseline": 25,
 			"textAlign": "left",
 			"verticalAlign": "top"
+		},
+		{
+			"id": "FirUXB49W1k4pOXVbKQ-E",
+			"type": "rectangle",
+			"x": 3098.618344085385,
+			"y": 80.98098900204786,
+			"width": 1930.666707356772,
+			"height": 917.3332722981777,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 2091612922,
+			"version": 20,
+			"versionNonce": 1221424870,
+			"isDeleted": false,
+			"boundElementIds": null
+		},
+		{
+			"id": "uztir30fd-sXQ0wN0Qtwf",
+			"type": "freedraw",
+			"x": 3922.6183847754896,
+			"y": 342.3143019903291,
+			"width": 421.3334147135406,
+			"height": 418.66668701171875,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 713793146,
+			"version": 58,
+			"versionNonce": 1709012326,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1,
+					1,
+					0.5
+				],
+				[
+					5.33345540364553,
+					0
+				],
+				[
+					10.66670735677053,
+					5.33335367838572
+				],
+				[
+					29.33329264322856,
+					21.33331298828125
+				],
+				[
+					66.66666666666606,
+					42.66672770182322
+				],
+				[
+					114.666748046875,
+					72.00002034505269
+				],
+				[
+					178.6667887369781,
+					96.00006103515625
+				],
+				[
+					234.66674804687455,
+					120
+				],
+				[
+					322.6668294270835,
+					157.3333740234375
+				],
+				[
+					370.6669108072906,
+					176.00006103515625
+				],
+				[
+					405.33325195312455,
+					186.66666666666697
+				],
+				[
+					421.3334147135406,
+					192.0000203450527
+				],
+				[
+					421.3334147135406,
+					197.3333740234375
+				],
+				[
+					421.3334147135406,
+					200
+				],
+				[
+					413.3333333333335,
+					216.00006103515625
+				],
+				[
+					389.33349609374955,
+					234.6666463216152
+				],
+				[
+					354.66674804687455,
+					253.33333333333394
+				],
+				[
+					285.33325195312455,
+					290.66670735677144
+				],
+				[
+					242.66682942708348,
+					309.3333943684902
+				],
+				[
+					194.66674804687455,
+					330.66670735677144
+				],
+				[
+					152.0001220703125,
+					352.0000203450527
+				],
+				[
+					117.3333740234375,
+					367.9999796549482
+				],
+				[
+					82.6666259765625,
+					378.66668701171875
+				],
+				[
+					55.99995930989553,
+					397.3333740234375
+				],
+				[
+					42.6666259765625,
+					407.9999796549482
+				],
+				[
+					37.3333740234375,
+					413.33333333333394
+				],
+				[
+					32.0001220703125,
+					416.00006103515625
+				],
+				[
+					32.0001220703125,
+					418.66668701171875
+				],
+				[
+					29.33329264322856,
+					418.66668701171875
+				],
+				[
+					29.33329264322856,
+					400
+				],
+				[
+					29.33329264322856,
+					384.00004069010447
+				],
+				[
+					29.33329264322856,
+					365.3333536783857
+				],
+				[
+					29.33329264322856,
+					341.33331298828125
+				],
+				[
+					29.33329264322856,
+					314.6666463216152
+				],
+				[
+					29.33329264322856,
+					264.00004069010447
+				],
+				[
+					29.33329264322856,
+					232.0000203450527
+				],
+				[
+					29.33329264322856,
+					205.33335367838572
+				],
+				[
+					29.33329264322856,
+					178.66668701171875
+				],
+				[
+					29.33329264322856,
+					160
+				],
+				[
+					29.33329264322856,
+					138.66668701171875
+				],
+				[
+					26.66666666666606,
+					120
+				],
+				[
+					21.33341471354106,
+					101.33331298828125
+				],
+				[
+					21.33341471354106,
+					85.33335367838572
+				],
+				[
+					18.66678873697856,
+					66.66666666666697
+				],
+				[
+					18.66678873697856,
+					56.00006103515625
+				],
+				[
+					13.33333333333303,
+					34.66664632161519
+				],
+				[
+					13.33333333333303,
+					32.00002034505269
+				],
+				[
+					10.66670735677053,
+					18.66668701171875
+				],
+				[
+					10.66670735677053,
+					16.00006103515625
+				],
+				[
+					10.66670735677053,
+					7.99997965494822
+				],
+				[
+					8.00008138020803,
+					2.66672770182322
+				],
+				[
+					8.00008138020803,
+					0
+				],
+				[
+					0,
+					0
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				8.00008138020803,
+				0
+			]
+		},
+		{
+			"id": "JmCzjkZZe__c24b8jXCkq",
+			"type": "freedraw",
+			"x": 3943.9517994890307,
+			"y": 438.31436302548536,
+			"width": 531.6667073567705,
+			"height": 53.33333333333303,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1788205222,
+			"version": 51,
+			"versionNonce": 1958052326,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1,
+					1,
+					0.5
+				],
+				[
+					-2.6666259765625,
+					-2.6667277018223103
+				],
+				[
+					-10.66670735677053,
+					-5.33335367838481
+				],
+				[
+					-24.00004069010356,
+					-5.33335367838481
+				],
+				[
+					-45.33345540364553,
+					-5.33335367838481
+				],
+				[
+					-72.0001220703125,
+					-5.33335367838481
+				],
+				[
+					-104.00004069010356,
+					-5.33335367838481
+				],
+				[
+					-144.00004069010356,
+					-5.33335367838481
+				],
+				[
+					-175.99995930989553,
+					-5.33335367838481
+				],
+				[
+					-197.3333740234375,
+					-5.33335367838481
+				],
+				[
+					-210.66670735677053,
+					-5.33335367838481
+				],
+				[
+					-213.33333333333303,
+					-5.33335367838481
+				],
+				[
+					-215.99995930989553,
+					-8.00008138020803
+				],
+				[
+					-218.66678873697856,
+					-18.66668701171875
+				],
+				[
+					-218.66678873697856,
+					-29.33339436848928
+				],
+				[
+					-218.66678873697856,
+					-40
+				],
+				[
+					-221.33341471354106,
+					-45.33335367838481
+				],
+				[
+					-221.33341471354106,
+					-48.00008138020803
+				],
+				[
+					-226.66666666666606,
+					-32.00002034505178
+				],
+				[
+					-232.0001220703125,
+					-18.66668701171875
+				],
+				[
+					-240,
+					-5.33335367838481
+				],
+				[
+					-242.6666259765625,
+					0
+				],
+				[
+					-245.33345540364553,
+					5.333251953125
+				],
+				[
+					-253.33333333333303,
+					2.6666259765625
+				],
+				[
+					-258.66678873697856,
+					-5.33335367838481
+				],
+				[
+					-264.00004069010356,
+					-10.66670735677053
+				],
+				[
+					-266.66666666666606,
+					-13.33333333333303
+				],
+				[
+					-272.0001220703125,
+					-13.33333333333303
+				],
+				[
+					-274.666748046875,
+					-8.00008138020803
+				],
+				[
+					-277.3333740234375,
+					-5.33335367838481
+				],
+				[
+					-285.33345540364553,
+					-16.00006103515625
+				],
+				[
+					-293.33333333333303,
+					-29.33339436848928
+				],
+				[
+					-295.99995930989553,
+					-34.666748046875
+				],
+				[
+					-304.00004069010356,
+					-32.00002034505178
+				],
+				[
+					-309.33329264322856,
+					-26.66666666666606
+				],
+				[
+					-312.0001220703125,
+					-26.66666666666606
+				],
+				[
+					-317.3333740234375,
+					-26.66666666666606
+				],
+				[
+					-328.00008138020803,
+					-24.00004069010356
+				],
+				[
+					-344.00004069010356,
+					-24.00004069010356
+				],
+				[
+					-362.6666259765625,
+					-24.00004069010356
+				],
+				[
+					-381.33341471354106,
+					-24.00004069010356
+				],
+				[
+					-413.33333333333303,
+					-24.00004069010356
+				],
+				[
+					-445.33345540364553,
+					-21.33341471354106
+				],
+				[
+					-474.666748046875,
+					-16.00006103515625
+				],
+				[
+					-498.66678873697856,
+					-13.33333333333303
+				],
+				[
+					-517.3333740234375,
+					-13.33333333333303
+				],
+				[
+					-525.3334554036455,
+					-13.33333333333303
+				],
+				[
+					-528.000081380208,
+					-13.33333333333303
+				],
+				[
+					-530.6667073567705,
+					-13.33333333333303
+				],
+				[
+					-530.6667073567705,
+					-13.33333333333303
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				-530.6667073567705,
+				-13.33333333333303
+			]
+		},
+		{
+			"id": "PTyoZjt4d4CePUzweJGl1",
+			"type": "freedraw",
+			"x": 3946.618425465593,
+			"y": 624.9810296921523,
+			"width": 432.99991861979106,
+			"height": 45.33335367838481,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 2093512570,
+			"version": 70,
+			"versionNonce": 1640999846,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1,
+					1,
+					0.5
+				],
+				[
+					-5.333251953125,
+					0
+				],
+				[
+					-29.33329264322856,
+					0
+				],
+				[
+					-50.66670735677053,
+					2.6666259765625
+				],
+				[
+					-61.33341471354106,
+					2.6666259765625
+				],
+				[
+					-69.33329264322856,
+					2.6666259765625
+				],
+				[
+					-74.666748046875,
+					5.333251953125
+				],
+				[
+					-85.333251953125,
+					7.99997965494822
+				],
+				[
+					-93.33333333333303,
+					7.99997965494822
+				],
+				[
+					-95.99995930989553,
+					7.99997965494822
+				],
+				[
+					-98.66658528645803,
+					7.99997965494822
+				],
+				[
+					-101.33341471354106,
+					10.66660563151072
+				],
+				[
+					-104.00004069010356,
+					10.66660563151072
+				],
+				[
+					-109.33329264322856,
+					10.66660563151072
+				],
+				[
+					-117.3333740234375,
+					13.33333333333303
+				],
+				[
+					-120,
+					13.33333333333303
+				],
+				[
+					-125.333251953125,
+					13.33333333333303
+				],
+				[
+					-130.66670735677053,
+					13.33333333333303
+				],
+				[
+					-135.99995930989553,
+					13.33333333333303
+				],
+				[
+					-141.33341471354106,
+					13.33333333333303
+				],
+				[
+					-149.33329264322856,
+					15.99995930989553
+				],
+				[
+					-151.99991861979106,
+					15.99995930989553
+				],
+				[
+					-154.666748046875,
+					15.99995930989553
+				],
+				[
+					-157.3333740234375,
+					15.99995930989553
+				],
+				[
+					-160,
+					15.99995930989553
+				],
+				[
+					-162.6666259765625,
+					15.99995930989553
+				],
+				[
+					-162.6666259765625,
+					10.66660563151072
+				],
+				[
+					-165.333251953125,
+					-2.66672770182322
+				],
+				[
+					-165.333251953125,
+					-13.33333333333303
+				],
+				[
+					-168.00008138020803,
+					-24.00004069010447
+				],
+				[
+					-173.33333333333303,
+					-29.33339436848928
+				],
+				[
+					-178.66658528645803,
+					-24.00004069010447
+				],
+				[
+					-178.66658528645803,
+					-16.00006103515625
+				],
+				[
+					-189.33329264322856,
+					-8.00008138020803
+				],
+				[
+					-194.666748046875,
+					2.6666259765625
+				],
+				[
+					-197.3333740234375,
+					5.333251953125
+				],
+				[
+					-200,
+					7.99997965494822
+				],
+				[
+					-202.6666259765625,
+					7.99997965494822
+				],
+				[
+					-205.333251953125,
+					-5.33335367838572
+				],
+				[
+					-213.33333333333303,
+					-18.66668701171875
+				],
+				[
+					-215.99995930989553,
+					-18.66668701171875
+				],
+				[
+					-218.66658528645803,
+					-8.00008138020803
+				],
+				[
+					-224.00004069010356,
+					0
+				],
+				[
+					-226.66666666666606,
+					0
+				],
+				[
+					-229.33329264322856,
+					0
+				],
+				[
+					-231.99991861979106,
+					0
+				],
+				[
+					-234.666748046875,
+					-8.00008138020803
+				],
+				[
+					-237.3333740234375,
+					-13.33333333333303
+				],
+				[
+					-240,
+					-16.00006103515625
+				],
+				[
+					-250.66670735677053,
+					-16.00006103515625
+				],
+				[
+					-261.33341471354106,
+					-16.00006103515625
+				],
+				[
+					-277.3333740234375,
+					-13.33333333333303
+				],
+				[
+					-293.33333333333303,
+					-10.66670735677053
+				],
+				[
+					-306.66666666666606,
+					-8.00008138020803
+				],
+				[
+					-325.333251953125,
+					-5.33335367838572
+				],
+				[
+					-349.33329264322856,
+					-2.66672770182322
+				],
+				[
+					-365.333251953125,
+					0
+				],
+				[
+					-373.33333333333303,
+					2.6666259765625
+				],
+				[
+					-384.00004069010356,
+					2.6666259765625
+				],
+				[
+					-389.33329264322856,
+					2.6666259765625
+				],
+				[
+					-400,
+					2.6666259765625
+				],
+				[
+					-402.6666259765625,
+					5.333251953125
+				],
+				[
+					-410.66670735677053,
+					7.99997965494822
+				],
+				[
+					-413.33333333333303,
+					7.99997965494822
+				],
+				[
+					-415.99995930989553,
+					10.66660563151072
+				],
+				[
+					-421.33341471354106,
+					10.66660563151072
+				],
+				[
+					-424.00004069010356,
+					10.66660563151072
+				],
+				[
+					-431.99991861979106,
+					13.33333333333303
+				],
+				[
+					-431.99991861979106,
+					13.33333333333303
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				-431.99991861979106,
+				13.33333333333303
+			]
+		},
+		{
+			"id": "dSGSiml7NEIheGQo9k0bs",
+			"type": "freedraw",
+			"x": 4066.618425465593,
+			"y": 424.98102969215233,
+			"width": 38.3333740234375,
+			"height": 230.33339436848928,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 621726138,
+			"version": 15,
+			"versionNonce": 727703290,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1,
+					1,
+					0.5
+				],
+				[
+					0,
+					-5.33335367838572
+				],
+				[
+					0,
+					-18.66668701171875
+				],
+				[
+					-5.333251953125,
+					-40
+				],
+				[
+					-5.333251953125,
+					-58.66668701171875
+				],
+				[
+					-8.00008138020803,
+					-85.33335367838572
+				],
+				[
+					-13.33333333333303,
+					-109.33339436848928
+				],
+				[
+					-18.66658528645803,
+					-138.66668701171875
+				],
+				[
+					-24.00004069010356,
+					-168.00008138020803
+				],
+				[
+					-29.33329264322856,
+					-189.33339436848928
+				],
+				[
+					-31.99991861979106,
+					-210.66670735677053
+				],
+				[
+					-34.666748046875,
+					-226.66666666666697
+				],
+				[
+					-37.3333740234375,
+					-229.33339436848928
+				],
+				[
+					-37.3333740234375,
+					-229.33339436848928
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				-37.3333740234375,
+				-229.33339436848928
+			]
+		},
+		{
+			"id": "P_VmLKVoFoYRa0c0OVshW",
+			"type": "freedraw",
+			"x": 4103.95179948903,
+			"y": 678.3143630254854,
+			"width": 13.33333333333394,
+			"height": 167.99997965494822,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 575481254,
+			"version": 21,
+			"versionNonce": 295530022,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1,
+					1,
+					0.5
+				],
+				[
+					0,
+					7.99997965494822
+				],
+				[
+					0,
+					10.66660563151072
+				],
+				[
+					0,
+					15.99995930989644
+				],
+				[
+					0,
+					29.33329264322947
+				],
+				[
+					0,
+					40
+				],
+				[
+					0,
+					58.66658528645894
+				],
+				[
+					0,
+					80
+				],
+				[
+					2.6666259765625,
+					101.33331298828125
+				],
+				[
+					5.333251953125,
+					114.66664632161519
+				],
+				[
+					5.333251953125,
+					125.333251953125
+				],
+				[
+					7.9998779296875,
+					133.33333333333394
+				],
+				[
+					7.9998779296875,
+					141.33331298828125
+				],
+				[
+					7.9998779296875,
+					149.33329264322947
+				],
+				[
+					10.66670735677144,
+					149.33329264322947
+				],
+				[
+					10.66670735677144,
+					154.6666463216152
+				],
+				[
+					10.66670735677144,
+					162.6666259765625
+				],
+				[
+					10.66670735677144,
+					165.333251953125
+				],
+				[
+					13.33333333333394,
+					167.99997965494822
+				],
+				[
+					13.33333333333394,
+					167.99997965494822
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				13.33333333333394,
+				167.99997965494822
+			]
+		},
+		{
+			"id": "yiA1VCHnPSPVW9qsxynxV",
+			"type": "freedraw",
+			"x": 4338.618547535905,
+			"y": 547.6476556687148,
+			"width": 349.33308919270894,
+			"height": 1,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1943301946,
+			"version": 13,
+			"versionNonce": 1946827706,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1,
+					1,
+					0.5
+				],
+				[
+					10.66650390625,
+					0
+				],
+				[
+					34.666748046875,
+					0
+				],
+				[
+					63.99983723958394,
+					0
+				],
+				[
+					88.00008138020894,
+					0
+				],
+				[
+					149.33308919270894,
+					0
+				],
+				[
+					210.66650390625,
+					0
+				],
+				[
+					328.00008138020894,
+					0
+				],
+				[
+					338.66658528645894,
+					0
+				],
+				[
+					346.6666666666679,
+					0
+				],
+				[
+					349.33308919270894,
+					0
+				],
+				[
+					349.33308919270894,
+					0
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				349.33308919270894,
+				0
+			]
+		},
+		{
+			"id": "N7LFTyvs",
+			"type": "text",
+			"x": 4627.952043629657,
+			"y": 197.85741616977526,
+			"width": 176.66682942708394,
+			"height": 81.79019880883511,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 777021478,
+			"version": 25,
+			"versionNonce": 2015226278,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"text": "Stuff",
+			"rawText": "Stuff",
+			"fontSize": 65.43215904706811,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 57.790198808835115
+		},
+		{
+			"id": "H8PNfpG5",
+			"type": "text",
+			"x": 4679.951555348405,
+			"y": 305.9809279668916,
+			"width": 255,
+			"height": 174,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 1644990566,
+			"version": 91,
+			"versionNonce": 2140277626,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"text": "STFFfffffffffffffffffffff\nffffffffffffffff\nff\nf\nffffffff3+234+234-+\n+324-+32-4 =\n#",
+			"rawText": "STFFfffffffffffffffffffff\nffffffffffffffff\nff\nf\nffffffff3+234+234-+\n+324-+32-4 =\n#",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 167
+		},
+		{
+			"id": "_FCOXRgBpbA9FGtuIbw6g",
+			"type": "ellipse",
+			"x": 2775.9517181088227,
+			"y": -196.35233415875973,
+			"width": 378.66678873697947,
+			"height": 370.66670735677144,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 1830503738,
+			"version": 148,
+			"versionNonce": 956699834,
+			"isDeleted": false,
+			"boundElementIds": null
+		},
+		{
+			"id": "LOCDOPL3",
+			"type": "text",
+			"x": 2842.951738453875,
+			"y": -52.85227312360257,
+			"width": 253.1998901367177,
+			"height": 70.3333028157549,
+			"angle": 0,
+			"strokeColor": "#a61e4d",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 1140829754,
+			"version": 37,
+			"versionNonce": 819662138,
+			"isDeleted": false,
+			"boundElementIds": null,
+			"text": "Remember",
+			"rawText": "Remember",
+			"fontSize": 56.26664225260394,
+			"fontFamily": 1,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"baseline": 50.333302815754905
 		}
 	],
 	"appState": {
-		"theme": "light",
+		"theme": "dark",
 		"viewBackgroundColor": "#ffffff",
 		"currentItemStrokeColor": "#a61e4d",
 		"currentItemBackgroundColor": "transparent",

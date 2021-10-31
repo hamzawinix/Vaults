@@ -108,8 +108,8 @@
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"seed": 2088293861,
-			"version": 101,
-			"versionNonce": 1428732811,
+			"version": 102,
+			"versionNonce": 1886878754,
 			"isDeleted": false,
 			"boundElementIds": null,
 			"text": "k a stroud engineering mathmatics ",
@@ -117,7 +117,8 @@
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 18
+			"baseline": 18,
+			"rawText": "k a stroud engineering mathmatics "
 		},
 		{
 			"id": "S8V08J8Y",
